@@ -14,7 +14,8 @@ body{
 .card{
     width:350px;
     height:350px;
-    box-shadow: 0 0 15px black;
+    box-shadow: 0 0 20px black;
+    border:3px solid white;
     font-family: sans-serif;
     background-color: rgb(44, 44, 44);
     border-radius:20px;
@@ -26,6 +27,7 @@ body{
 
 .container-imag{
     border-radius: 50%;
+    border: 3px solid black;
     width:40%;
     height:40%;
     margin:0 auto;
