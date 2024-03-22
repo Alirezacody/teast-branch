@@ -26,6 +26,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium, harum qui
     <style>
         table , tr , th , td{
             border:1px solid white;
+            border-collapse: collapse;
         }
     </style>
 </head>
