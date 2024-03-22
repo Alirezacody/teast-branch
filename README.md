@@ -16,3 +16,37 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium, harum qui
 |------------|------------|-----|
 |  Alireza   |  Nabikhani | 19  |      
 |  Hassan    |   MOGHIMI  |  18 |
+
+
+
+```html css
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table , tr , th , td{
+            border:1px solid white;
+        }
+    </style>
+</head>
+<body>
+        <table>
+        <tr>
+            <th>First name</th>
+            <th>Last name</th>
+            <th>age</th>
+        </tr>
+        <tr>
+            <td>Alireza</td>
+            <td>Nabikhani</td>
+            <td>19</td>
+        </tr>
+        <tr>
+            <td>taghi</td>
+            <td>Mirzaee</td>
+            <td>17</td>
+        </tr>
+   </table>
+</body>
+</html>
+```
